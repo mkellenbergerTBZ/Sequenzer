@@ -1,0 +1,8 @@
+# This File holds text (one word) in each line to sequenz! 
+# "#" marks a comment line and will be scipt
+# Mind any blanks.
+KEL
+1
+Max_Muster
+ST20b
+123 123
